@@ -20,7 +20,7 @@ library NeptuneLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66' // init code hash
+                hex'a0fe4706c1a5a621e89fbd149743b4f719536938664bffc881e25f75135e48a1' // init code hash
             ))));
     }
 
